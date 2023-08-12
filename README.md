@@ -10,7 +10,7 @@
 
 #### 2. Navigate to the project directory:
     
-    cd MachineCatalog
+    cd shop_bot_telegram
 
 #### 3. (Recommended) Create a virtual environment to manage Python packages for your project:
     
